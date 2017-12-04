@@ -12,13 +12,13 @@ Uses the bare minimum of Google Forms, Sheets, and [D3](https://d3js.org/) to ge
 
 ## Templates Available
 
-_Desk Traffic Today_ - `desk_today.html` [link]('desk_today.html')
+_Desk Traffic Today_ - `desk_today.html` [link](desk_today.html)
 
-_Desk Traffic Last Year_ `desk_year.html`
+_Desk Traffic Last Year_ `desk_year.html` [link](desk_year.html)
 
-_Book by LC Call Number Classes_ `books_call_number.html`
+_Book by LC Call Number Classes_ `books_call_number.html` [link](books_call_number.html)
 
-_Book by P LC Call Number Class_ `books_P_class.html`
+_Book by P LC Call Number Class_ `books_P_class.html` [link](books_P_class.html)
 
 ## Templates In Development
 
