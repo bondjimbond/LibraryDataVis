@@ -12,7 +12,7 @@ Uses the bare minimum of Google Forms, Sheets, and [D3](https://d3js.org/) to ge
 
 ## Templates Available
 
-_Desk Traffic Today_ - `desk_today.html`
+_Desk Traffic Today_ - `desk_today.html` [link]('desk_today.html')
 
 _Desk Traffic Last Year_ `desk_year.html`
 
