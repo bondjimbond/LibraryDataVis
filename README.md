@@ -16,6 +16,12 @@ _Desk Traffic Today_ - `desk_today.html`
 
 _Desk Traffic Last Year_ `desk_year.html`
 
+_Book by LC Call Number Classes_ `books_call_number.html`
+
+_Book by P LC Call Number Class_ `books_P_class.html`
+
+## Templates In Development
+
 _Research Consultations_ `research_consults.html`
 
 
