@@ -20,9 +20,12 @@ _Book by LC Call Number Classes_ `books_call_number.html` [link](books_call_numb
 
 _Book by P LC Call Number Class_ `books_P_class.html` [link](books_P_class.html)
 
-## Templates In Development
+_Research Consultations during 2017_ `research_consults.html` [link](research_consults.html)
 
-_Research Consultations_ `research_consults.html`
+_Students Seen In Instruction Sessions during 2017_ `teaching_sessions.html` [link](teaching_sessions.html)
+
+
+
 
 
 ## Make your own
