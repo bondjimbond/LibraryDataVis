@@ -26,7 +26,9 @@ _Research Consultations during 2017_ `research_consults.html` [link](research_co
 
 _Students Seen In Instruction Sessions during 2017_ `teaching_sessions.html` [link](teaching_sessions.html)
 
+## Visualizations based on that list of Peer Review LIS Journals
 
+_Journals by Open Access v. Closed_ `journals_by_oa.html` [link](journals_by_oa.html)
 
 
 
